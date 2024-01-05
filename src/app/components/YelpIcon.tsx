@@ -25,9 +25,9 @@ export default function YelpIcon() {
 						r="1"
 						gradientUnits="userSpaceOnUse"
 						gradientTransform="rotate(90 13.87 8.63) scale(53.7353)">
-						<stop stop-color="#FF78A1" />
-						<stop offset=".513" stop-color="#FE375C" />
-						<stop offset="1" stop-color="red" />
+						<stop stopColor="#FF78A1" />
+						<stop offset=".513" stopColor="#FE375C" />
+						<stop offset="1" stopColor="red" />
 					</radialGradient>
 					<filter
 						id="filter0_di"
